@@ -1,5 +1,5 @@
 # Alieanum
-Ludum Dare 33 entry. A kinda bullet hell space shooter
+My Ludum Dare 33 entry. Everything was created by me in less than 48 hours.
 
 You can find the compiled game here: http://kaev.itch.io/alieanum
 
