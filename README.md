@@ -8,7 +8,7 @@ You are an evil alien who's attacking the earth.
 
 The humans saw your spaceship through telescopes and are attacking you right now.
 
-This was my first Ludum Dare and i was so AWESOME.
+This was my first Ludum Dare and it was so AWESOME.
 
 I learned so much in the past 2 days and i'm really happy that i joined the competition. This is my first game which i can call kinda finished.. :P
 
